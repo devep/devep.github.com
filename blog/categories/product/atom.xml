@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Product | HuoJu's weblog]]></title>
+  <link href="http://huoju.devep.net/blog/categories/product/atom.xml" rel="self"/>
+  <link href="http://huoju.devep.net/"/>
+  <updated>2012-01-19T23:20:43+08:00</updated>
+  <id>http://huoju.devep.net/</id>
+  <author>
+    <name><![CDATA[Huo Ju]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Path will be a great product]]></title>
+    <link href="http://huoju.devep.net/blog/2011/11/30/path-will-be-a-great-product/"/>
+    <updated>2011-11-30T11:39:00+08:00</updated>
+    <id>http://huoju.devep.net/blog/2011/11/30/path-will-be-a-great-product</id>
+    <content type="html"><![CDATA[<p>Although I used to be totally uninterested in <a href="http://Path.com">Path</a> 1.0 that I hardly find an opportunity to use, Path 2.0 is completely different from its predecessor. Yes, I love it.</p>
+
+<p>a. Cool app can take more time from users, for the reason that user will be more patient when exploring and using a cool app. So the good UI design of Path 2.0 catches my attention immediately.</p>
+
+<p>b. Most people use social network for watching what their friends are doing, sharing and playing rather than a social media. It is enough for Path 2.0 to allow people to share their photos, location, music, comments, wake or sleep status, which suggests the slogan Twitter -- "what's are you doing".</p>
+
+<p>c. Path keeps a simple fast way for users to share their current status, while facebook fills users timeline with boring game messages.</p>
+
+<p>d. Wake/Sleep status is an invention to my mind. Base on the hobbly of recording and collecting things, such as, to collect badges in games. Users would desire to use this app twice a day at least.</p>
+
+<p>As suggested above, personally ,Path could replace partial function of twitter or facebook, and finally find its living space between the companies occupying the majority of the SNS market.</p>
+]]></content>
+  </entry>
+  
+</feed>

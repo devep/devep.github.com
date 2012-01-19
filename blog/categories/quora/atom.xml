@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quora | HuoJu's weblog]]></title>
+  <link href="http://huoju.devep.net/blog/categories/quora/atom.xml" rel="self"/>
+  <link href="http://huoju.devep.net/"/>
+  <updated>2012-01-19T23:20:43+08:00</updated>
+  <id>http://huoju.devep.net/</id>
+  <author>
+    <name><![CDATA[Huo Ju]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[It's never too late to start studing anything]]></title>
+    <link href="http://huoju.devep.net/blog/2011/12/21/its-never-too-late-to-start-studing-anything/"/>
+    <updated>2011-12-21T01:01:00+08:00</updated>
+    <id>http://huoju.devep.net/blog/2011/12/21/its-never-too-late-to-start-studing-anything</id>
+    <content type="html"><![CDATA[<p>Quora question: <a href="http://www.quora.com/Is-twenty-six-too-old-to-become-a-developer">Is twenty-six too old to become a developer?</a></p>
+
+<p>My answer:</p>
+
+<p>The simple answer is "Absolutely not".</p>
+
+<p>The complex answer, I want to share you a real story which is happening around me.</p>
+
+<p>Several years ago I knew a 26-years-old guy who works as a market commissioner. Market commissiner is a boring and low-paying job in china. One day he asked me weather he is too old to study programming? He wanted to change his job because programmer is a decent work with higher incoming. "Sure, no problem", I answered. And I suggested he start from PHP language, a skill shortages specific to Chinese Internet companies. He accepted my advice and started reading PHP documents and studying by following the official tutorial.</p>
+
+<p>He did find a coding job after 4 months, although the salary was’t very high, however, he becomed a programmer! He was glad and worked hard to improve his technical level, then, he got another job at a bigger company after half a year. Then just after one year later, another large company asked him to join them. Today he is really a good programmer. Can you imageine that he started from a market commissioner?</p>
+
+<p>Yes, programming is not easy.A good programmer has to learn a lot, for example: mathematic, arithmetic, data structure, OS... and master several programming languages. But this is not the the full story. The aim of programming is solving problem. In many cases, the problems that you are facing don’t appear to be so difficult, which can be solved easily and don’t need so much knowledge and skill. So if you do not remain satisfied with this, you would continue to improve through the continuous learning and experience.</p>
+
+<p>This is an age when people live far longer, we all have opportunity to keep learning something new for decades, and get what you want one day. I believe it's never too late to start studing anything.</p>
+]]></content>
+  </entry>
+  
+</feed>
