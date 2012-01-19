@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[HuoJu's weblog]]></title>
-  <link href="http://virushuo.github.com/atom.xml" rel="self"/>
-  <link href="http://virushuo.github.com/"/>
-  <updated>2012-01-19T15:37:55+08:00</updated>
-  <id>http://virushuo.github.com/</id>
+  <link href="http://huoju.devep.net/atom.xml" rel="self"/>
+  <link href="http://huoju.devep.net/"/>
+  <updated>2012-01-19T15:40:14+08:00</updated>
+  <id>http://huoju.devep.net/</id>
   <author>
     <name><![CDATA[Huo Ju]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello octopress]]></title>
-    <link href="http://virushuo.github.com/blog/2012/01/19/hello-octopress/"/>
+    <link href="http://huoju.devep.net/blog/2012/01/19/hello-octopress/"/>
     <updated>2012-01-19T15:18:00+08:00</updated>
-    <id>http://virushuo.github.com/blog/2012/01/19/hello-octopress</id>
+    <id>http://huoju.devep.net/blog/2012/01/19/hello-octopress</id>
     <content type="html"><![CDATA[<p>It&#8217;s working.</p>
 
 <h3>cool!</h3>
